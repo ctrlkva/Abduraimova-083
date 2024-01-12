@@ -4,7 +4,7 @@
 #include <string>
 using std::string;
 using namespace System::Data::OleDb;
-//aaaaaaaa
+//комментарий
 namespace kursme {
 
 	using namespace System;
